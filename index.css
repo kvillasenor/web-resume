@@ -1,0 +1,59 @@
+.container {
+    width: 800px;
+    margin: 30px auto;
+}
+
+body {
+    font-family: 'Times New Roman';
+    margin: 0;
+    padding-bottom: none;    
+    
+}
+
+
+.contact {
+    text-align: center;
+    border-bottom: 1px solid #000000;
+    padding-bottom: 6px;
+    margin-bottom: 2px;  
+    
+}
+
+.header {
+    text-align: center;
+    border-bottom: 1px solid #000000;
+    padding-bottom: 0px;
+    margin-bottom: 2px;
+}
+
+.header a {
+    font-size: 14px;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+h4{
+    border-bottom: 1px solid #000000;
+    padding-bottom: 0px;
+    margin-bottom: 2px; 
+}
+
+.line {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+.skills {
+    margin-bottom: 5px;
+}
+
+ul {
+    margin-top: 0;
+}
+
+.indent {
+    padding-left: 20px; 
+}
