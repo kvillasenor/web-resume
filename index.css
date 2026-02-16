@@ -1,3 +1,6 @@
+/*The use of Google AI Overview and ChatGPT were used to create parts of this project*/
+
+/*Makes it so that the text doesn't go from one end of the screen to the other. Limits the text*/
 .container {
     width: 800px;
     margin: 30px auto;
@@ -34,12 +37,14 @@ h1{
     margin-bottom: 0px;
 }
 
+/*Adds the separating line at the bottom of each header*/
 h4{
     border-bottom: 1px solid #000000;
     padding-bottom: 0px;
     margin-bottom: 2px; 
 }
 
+/*Aligns text to the right (ex: dates and GPA)*/
 .line {
     display: flex;
     justify-content: space-between;
